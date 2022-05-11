@@ -1,0 +1,76 @@
+#{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body{
+  background: #000000;
+
+}
+
+
+
+
+
+
+
+
+p{
+color: #c0c0c0;
+font-size: 150%;
+line-height: 100%;
+padding: 5%;
+text-indent: 4%;
+align-items: center;
+
+}
+
+h3{
+  color: #ffffff;
+font-size: 150%;
+line-height: 55%;
+font-weight: 200;
+align-items:center;
+text-transform: uppercase;
+padding: 2%;
+
+
+
+}
+
+
+
+a{
+  color: #ffffff;
+  text-decoration: none;
+  font-weight:lighter;
+
+
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+  max-width: 40%;
+  height: auto;
+  width: auto;
+  margin-bottom: -4px;
+
+}
+
+banner_wrapper{}
+
+header #logo img{
+  margin: 1px;
+  float: left;
+  width: auto;
+  max-width: 30%;
+
+}
+
+footer{
+align-content: center;
+padding: 5%
+
+}
